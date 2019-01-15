@@ -1,0 +1,14 @@
+name: VedroGovna
+main: com.mayakplay.doge.PluginMain
+version: 1
+commands:
+   mpcaseshop:
+     description: LOL
+   mpcaseview:
+     description: LOL
+   rollcase:
+     description: LOL
+   casesreload:
+     description: LOL
+   mpmotd:
+     description: LOL

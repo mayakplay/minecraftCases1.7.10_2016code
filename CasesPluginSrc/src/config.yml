@@ -1,0 +1,22 @@
+Cases:
+- WOOL CASE,1,http://cs630126.vk.me/v630126748/d848/6C0Z7gsC27c.jpg
+- COBLE CASE,2,http://cs414419.vk.me/u10069748/docs/bac25b202d79/Case.png
+CaseItems:
+- 35,0,1,10,64,0
+- 35,1,1,10,64,0
+- 35,2,2,10,64,0
+- 35,3,3,10,64,0
+- 35,4,4,10,64,0
+- 35,5,5,10,64,0
+- 4,0,1,10,64,1
+- 4,0,1,10,64,1
+- 4,0,2,10,64,1
+- 4,0,3,10,64,1
+- 4,0,4,10,64,1
+- 4,0,5,10,64,1
+Chance1: 20
+Chance2: 10
+Chance3: 5
+Chance4: 2
+Chance5: 1
+MpMotd: http://sukaebal.do.am/meme.png
