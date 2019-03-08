@@ -7,7 +7,7 @@
 2k16 version govnocode ;)
 
 Config: 
-
+ 
 ```
 Cases
   - CASE_NAME, CASE_PRICE, TEXTURE_IMAGE_URL
