@@ -8,7 +8,7 @@
 
 Config: 
  
-```
+```elixir
 Cases
   - CASE_NAME, CASE_PRICE, TEXTURE_IMAGE_URL
 CaseItems: 
