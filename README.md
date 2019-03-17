@@ -6,8 +6,8 @@
 
 2k16 version govnocode ;)
 
-Config: 
- 
+Config 
+======
 ```yml
 Cases:
   - CASE_NAME, CASE_PRICE, TEXTURE_IMAGE_URL
