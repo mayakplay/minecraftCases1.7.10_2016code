@@ -15,7 +15,7 @@ CaseItems:
   - MINECRAFT_ITEM_ID, MINECRAFT_ITEM_SUB_ID, RARITY (1-5), MIN_DROP_COUNT, MAX_DROP_COUNT, CASE_ID (from 0)
 ```
 
-<a href="url"><img src="https://pp.userapi.com/c638116/v638116748/31413/y8yL2D7VXM0.jpg" align="left" height="250"  ></a>
-<a href="url"><img src="https://pp.userapi.com/c638116/v638116748/31423/TnFZ0s4p34g.jpg" align="left" height="250"  ></a>
-<a href="url"><img src="https://pp.userapi.com/c638116/v638116459/335ad/TsKK7nvLu2o.jpg" align="left" height="250"  ></a>
-<a href="url"><img src="https://pp.userapi.com/c638116/v638116748/30fad/DQD2mMet-Us.jpg" align="left" height="350"  ></a>
+<img src="https://pp.userapi.com/c638116/v638116748/31413/y8yL2D7VXM0.jpg" align="left" height="250">
+<img src="https://pp.userapi.com/c638116/v638116748/31423/TnFZ0s4p34g.jpg" align="left" height="250">
+<img src="https://pp.userapi.com/c638116/v638116459/335ad/TsKK7nvLu2o.jpg" align="left" height="250">
+<img src="https://pp.userapi.com/c638116/v638116748/30fad/DQD2mMet-Us.jpg" align="left" height="350">
